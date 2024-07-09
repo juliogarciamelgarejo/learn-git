@@ -1,1 +1,1 @@
-# Learning git and github from scratch for free :rocket:
+# Learning Git and GitHub from scratch for free 🚀
