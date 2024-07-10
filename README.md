@@ -37,3 +37,10 @@
 - ``` git reset --hard HEAD~1 ```
 - ``` git reflog ```
 - ``` git diff ```
+- ``` git reset ```
+- ``` git remote -v ```
+- ``` git remote add origin https://github.com/username/repository.git ```
+- ``` git remote rename old new ```
+- ``` git remote remove origin ```
+- ``` git tag v1.0.0 ```
+- ``` git tag -d v1.0.0 ```
