@@ -7,12 +7,19 @@
 ## Resources
 
 - [Free Course Link (Youtube 2022)](https://www.youtube.com/watch?v=suzMNqDQiyU)
+- [Website - JonMircha (Git)](https://jonmircha.com/git)
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## Commands
 
-- ```git --version```
-- ```git config --global user.name "Julio Cesar"```
-- ```git config --global user.email "juliocesar@gmail.com"```
-- ```git config --list```
-- ```git config --global -e```
+- ``` git --version ```
+- ``` git config --global user.name "Julio Cesar" ```
+- ``` git config --global user.email "juliocesar@gmail.com" ```
+- ``` git config --list ```
+- ``` git config --global -e ```
+- ``` git config --global core.autocrlf input ```
+- ``` git add file/directory ```
+- ``` git commit -m "First Commit" ```
+- ``` git remote add origin https://github.com/username/repository.git ```
+- ``` git push -u origin main ```
+
