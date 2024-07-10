@@ -33,3 +33,7 @@
 - ``` git log ```
 - ``` git log --oneline ```
 - ``` git commit --amend --no-edit ```
+- ``` git commit --amend -m "Message commit" ```
+- ``` git reset --hard HEAD~1 ```
+- ``` git reflog ```
+- ``` git diff ```
