@@ -30,3 +30,6 @@
 - ``` git branch ```
 - ``` git push origin -d branch ```
 - ``` git merge branch ```
+- ``` git log ```
+- ``` git log --oneline ```
+- ``` git commit --amend --no-edit ```
