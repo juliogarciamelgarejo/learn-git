@@ -7,6 +7,7 @@
 ### Website
 
 - [Learn Git (Atlassian)](https://www.atlassian.com/git)
+- [Aprendiendo Git (Miguel Angel Duran)](https://)
 - [Git (JonMircha)](https://jonmircha.com/git)
 - [Gitignore (Toptal)](https://www.toptal.com/developers/gitignore)
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
